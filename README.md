@@ -5,25 +5,10 @@
 config.css
 ├── index.css
 ├── index.html
-└── versiones
-    ├── version1
-    │   ├── footer.css
-    │   └── header.css
-    ├── version2
-    │   ├── footer.css
-    │   └── header.css
-    ├── version3
-    │   ├── footer.css
-    │   └── header.css
-    ├── version4
-    │   ├── footer.css
-    │   ├── header.css
-    │   └── seccion.css
-    ├── version5
-    │   ├── footer.css
-    │   ├── header.css
-    │   └── seccion.css
-    └── version6
-        ├── footer.css
-        ├── header.css
-        └── seccion.css
+├── version1.html
+├── version2.html
+├── version3.html
+├── version4.html
+├── version5.html
+└── version6.html
+
