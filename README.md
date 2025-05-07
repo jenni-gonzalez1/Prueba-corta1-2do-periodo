@@ -1,5 +1,7 @@
 # Prueba-corta1-2do-periodo
 
+https://jenni-gonzalez1.github.io/Prueba-corta1-2do-periodo/
+
 #sistema de carpetas 
 
 config.css
